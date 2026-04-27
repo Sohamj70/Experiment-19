@@ -1,4 +1,4 @@
-# Aim : Data Cleaning and Statistical Analysis using Python
+# Aim : Real World and Interactive Visualizations
 # Theory
 Data cleaning and statistical analysis are fundamental steps in data science. Raw data often contains inconsistencies such as missing values, duplicate records, and incorrect formats. Data cleaning ensures that the dataset becomes accurate, consistent, and usable.
 Statistical analysis helps summarize and interpret the data using measures like mean, median, standard deviation, and distribution patterns. Python libraries such as pandas and numpy provide efficient tools to perform these operations.
